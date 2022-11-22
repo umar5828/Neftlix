@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(31, 28, 28);
+
+}
+.my-image{
+    display: block;
+    text-align: center;
+    padding-top: 200px;
+}
+.button_box{
+    background-color: #fff;
+    color: #cd1820;
+    padding: 10px 45px;
+    margin-top: 20px;
+    border: none;
+    font-size: 20px;
+    font-family: Poppins,sans-serif; 
+     border-radius: 5px;
+}
+
+.main-section__button1{
+    text-align: center;
+}
+.button_box:hover{
+    background-color: rgb(156, 6, 6);
+    color: bisque;
+  
+}
